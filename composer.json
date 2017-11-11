@@ -1,0 +1,7 @@
+{
+  "name": "trees/trees",
+  "description": "trees",
+  "require": {
+    "php": ">=5.4.0"
+  }
+}
